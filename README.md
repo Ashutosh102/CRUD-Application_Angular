@@ -1,4 +1,7 @@
 # Angular 10 CRUD application example with Web API
+## Demo
+![Screenshot (773)](https://user-images.githubusercontent.com/75971776/149548744-ca6cf590-27ad-4534-9068-3618e3c1cc18.png)
+![Screenshot (772)](https://user-images.githubusercontent.com/75971776/149548773-a5150d9a-f44d-4cde-87a5-dc89614dc66c.png)
 
 For instruction, please visit:
 > [Angular 10 CRUD application example with Web API](https://bezkoder.com/angular-10-crud-app/)
